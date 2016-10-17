@@ -1,1 +1,2 @@
-# scrapy_cbdio
+#
+#name: scrapy_cbdio
